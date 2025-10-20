@@ -5,5 +5,6 @@ chains = ["https://mainnet.base.org","https://rpc.testnet.cyber.co"]
 [token]
 owner_address = "0xb6e888081fec686b1C0482D004f68e9B83Fc4022"
 name = "StuckyTest"
-symbol = "STT"
+symbol = "ST"
 decimals = 4
+
